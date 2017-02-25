@@ -77,7 +77,7 @@ var app = {
           console.log('Error in getLibrary: ' + err);
         }
       }, {
-        chunkTimeSec: 0.1,
+        chunkTimeSec: 0.3,
       }
     );
 
